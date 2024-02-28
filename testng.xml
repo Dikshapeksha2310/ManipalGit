@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Axis_Data_Driven.Data_driven_framework.AppTest"/>
+      <class name="Axis_Data_Driven.Data_driven_framework.ReadExcel"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
